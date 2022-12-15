@@ -1,0 +1,10 @@
+#kvadrat{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+#width, #height, #bgColor, #pos, #t, #l, button, #border, #bgImage, #transition{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: -80px;
+}
